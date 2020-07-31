@@ -1,0 +1,28 @@
+
+Data:
+      Data is the most valuable thing. The companies become more valuable, because they collect more data. Companies like facebook and google sell data for money. 
+They use the data to customise the product to  fullfill the need of the user accordingly. The data is also used to improve the company or buisness.
+
+Types of data:
+1. Structured data (comes under relational database)
+2. Semi-structured data (eg: .xml, .csv, .json)
+3. Unstructured data (eg: pdf, email, or any document)
+4. Binary data (eg: mp3, mp4)
+
+Data Engineering:
+       Data science is an idea to convert the data into something useful and apply that in a buisness. Data analysis is the subset of data science, that is used to analyse the data that 
+we have. The data engineer will take all forms of data(information) as input, produces it, and maintains it in a database. They are like librarian, who will collect all the information
+and arrange orderly, so that the machine learning engineers and data scientist will use those data with ease.
+
+Data Mining:
+       Preprocessing or extracting some knowledge from the data.
+Big Data:
+       The big data refers to too much of data, such that you can't run in that in your laptop. The big data is something that you need to run on cloud or multiple computers such as
+AWS, google cloud, etc.
+Data Pipeline:
+       It is essentially a pipeline, that a data engineer built, to extract information from big data through data mining and make the data accessible. The data engineer will create data
+pipeline and collect all the information through different kind of inputs and store those data in cloud. They accumulate all the information in a simply packed database, so that
+different part of companies can create visualisation, monitor the performance of the product, get buisness insights and make buisness decision on data and can use the data on 
+their app.       
+
+

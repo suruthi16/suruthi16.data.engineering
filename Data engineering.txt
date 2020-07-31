@@ -1,0 +1,21 @@
+Data Engineering:
+
+The process of data engineering is as follows:
+1. Data creation
+2. Data Capture
+3. Data transfer
+4. Data warehouse (for structured and filtered data)
+5. Data analysis
+
+Collecting the data streams and creating data lake is done by kafka and Apache kafka. Most of the time, the data engineering will work with data lake. Buisness analyst will use the
+data warehouse.
+
+Three main tasks of data engineering:
+1. ETC pipeline: Extract transform load pipeline
+In this the data engineer will extract the data and convert into some usable form, that can be loaded into the data warehouse, so that the data can be used by different companies.
+
+2. Building analysis tool:
+This is used to analyse the data and also to check whether the system is running correctly.
+
+3. Maintaining warehouse
+ 

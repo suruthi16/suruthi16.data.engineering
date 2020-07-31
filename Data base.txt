@@ -1,0 +1,39 @@
+Database:
+
+Database is a collection of data(any form). Database is used to organise the data to use with ease. DBMS is used to update, delete, add, etc. in a database.
+Types of database:
+1. Relational database: used to read and write to database with SQL
+2. No SQL (eg: MongDB): more disorganise, but allows to maintain a large amount of data in different computers
+3. New SQL
+
+Relational DB:
+This type of database consist of two or more tables with rows and columns. Schema must be clearly described in Relational DB. It uses SQL
+eg: Postgre Sql
+
+No SQL/ Non-relational DB:
+It is used when, data requirements are not clearly defined, and when there is massive amount of data.
+eg: Mongo DB - document oriented database.
+
+Hadoop:
+** Open source
+** distributed processing framework
+** It allows to do data processing and storage for big data. Used to store a large amount of data.
+** It is like data lake
+
+HDFS:
+** Hadoop distributed file system
+** It allows to store files on multiple computers, so data is stored across different countries in different computers.
+
+Map reduce:
+** Do batch processing to clean and process the data in data lake, to make it useful for companies.
+
+Apache spark:
+** Run processing job, much faster than the map reduce, used to run ETL jobs, clean and process data.
+
+Apache Flink:
+** Offer real time streaming data.
+
+Kalfa and stream processing:
+** Distributed streaming platform
+** Kalfa is a message broker
+** Allow pass the data for realtime process and batch process
